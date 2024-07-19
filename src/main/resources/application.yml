@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    password: 123456
+    username: root
+    url: jdbc:mysql://localhost:3306/task_test
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  application:
+    name: scheduled-demo
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+server:
+  port: 9991
