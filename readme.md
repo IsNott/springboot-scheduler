@@ -4,7 +4,7 @@
 ### 版本-version
 
 |name|version|
-
+|--|--|
 |spring-boot-starter-web|3.2.0|
 |mybatis-plus-spring-boot3-starter|3.5.7|
 
